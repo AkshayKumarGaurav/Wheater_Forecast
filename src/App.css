@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  /* Set the container to cover the entire viewport */
+  width: 100vw;
+  height: 100vh;
+  /* Set the background image and configure its properties */
+  background-image: url('weatherfr.jpg');
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  /* Add any additional styles you need */
+}
