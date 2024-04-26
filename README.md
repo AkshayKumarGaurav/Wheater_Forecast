@@ -23,7 +23,8 @@ Weather Forecast: Using the obtained coordinates, the application fetches weathe
 Display Forecast: The retrieved weather forecast data is displayed on the screen, showing details such as temperature, weather conditions, wind speed, and more.
 
 # Deployment
-The Weather App is deployed and accessible online. You can try it out here
+The Weather App is deployed and accessible online. [Click here](https://akshayweatherforecast.netlify.app) to visit our website.
+
 
 # How to Run Locally
 To run the Weather App locally on your machine, follow these steps:
